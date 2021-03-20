@@ -1,4 +1,38 @@
 # screenshots 
-- splash screen
-<img src="./imgs/1.jpg" width="45%"> - <img src="./imgs/2.jpg" width="45%">
+<div>
+    <img src="./imgs/1.jpg" width="45%">
+    <img src="./imgs/2.jpg" width="45%">
+</div>
+<div>
+    <img src="./imgs/2.jpg" width="45%">
+    <img src="./imgs/3.jpg" width="45%">
+</div>
+<div>
+    <img src="./imgs/4.jpg" width="45%">
+    <img src="./imgs/5.jpg" width="45%">
+</div>
+<div>
+    <img src="./imgs/6.jpg" width="45%">
+    <img src="./imgs/8.jpg" width="45%">
+</div>
+<div>
+    <img src="./imgs/9.jpg" width="45%">
+    <img src="./imgs/10.jpg" width="45%">
+</div>
+<div>
+    <img src="./imgs/11.jpg" width="45%">
+    <img src="./imgs/12.jpg" width="45%">
+</div>
+<div>
+    <img src="./imgs/13.jpg" width="45%">
+    <img src="./imgs/14.jpg" width="45%">
+</div>
+<div>
+    <img src="./imgs/16.jpg" width="45%">
+    <img src="./imgs/17.jpg" width="45%">
+</div>
+<div>
+    <img src="./imgs/18.jpg" width="45%">
+    <img src="./imgs/19.jpg" width="45%">
+</div>
 
