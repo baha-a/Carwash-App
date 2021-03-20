@@ -1,5 +1,4 @@
 # screenshots 
 - splash screen
-![splash screen](./imgs/1.jpg)
-- Map 
-  ![map](./imgs/2.jpg)
+<img src="./imgs/1.jpg" width="45%"> - <img src="./imgs/2.jpg" width="45%">
+
