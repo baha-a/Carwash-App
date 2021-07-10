@@ -1,14 +1,11 @@
 <div style="background-color:#023; color:#ddd;padding:20px; border-radius:10px; ">
 
-<h1 style="color:#fff"> Waterless App Screenshots </h1>
-<i> project that built but never published </i>
-    
+<h1 style="color:#fff">Carwash Mobile App - 🚗🚿</h1>
+
 <br />
-<br />
-<b>
-    🎶
-   ps: Backend (Node js) and mobile (Flutter) code are in private repo if you wish to see them please contact me.
-</b>
+<i>
+   Backend (Node js) and mobile (Flutter) code are in a <a href="https://github.com/bhlshrf/carwash">private repo</a> if you wish to see them please contact me.
+</i>
     
 <hr style="background-color:#623; height:1px"/>
 
