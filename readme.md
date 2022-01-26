@@ -4,7 +4,7 @@
 
 <br />
 <i>
-   <a href="https://github.com/bhlshrf/carwash/tree/main/backend/functions">Backend (Node js)</a> and <a href="https://github.com/bhlshrf/carwash/tree/main/mobile">mobile (Flutter)</a> code are in a <a href="https://github.com/bhlshrf/carwash">private repo</a> if you wish to see them please contact me.
+   <a href="https://github.com/bhlshrf/Carwash-App/tree/main/backend/functions">Node Backend</a> and <a href="https://github.com/bhlshrf/carwash/tree/main/mobile">Flutter mobile (private repo)</a>.
 </i>
     
 <hr style="background-color:#623; height:1px"/>
